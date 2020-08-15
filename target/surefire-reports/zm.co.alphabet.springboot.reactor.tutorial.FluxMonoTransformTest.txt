@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: zm.co.alphabet.springboot.reactor.tutorial.FluxMonoTransformTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.021 s - in zm.co.alphabet.springboot.reactor.tutorial.FluxMonoTransformTest

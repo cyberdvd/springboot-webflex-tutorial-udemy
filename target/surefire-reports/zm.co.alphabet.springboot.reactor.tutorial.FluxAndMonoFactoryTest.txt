@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: zm.co.alphabet.springboot.reactor.tutorial.FluxAndMonoFactoryTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.01 s - in zm.co.alphabet.springboot.reactor.tutorial.FluxAndMonoFactoryTest
